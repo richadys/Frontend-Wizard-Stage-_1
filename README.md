@@ -23,6 +23,7 @@ Each page is designed to be responsive, accessible, and easy to navigate.
 https://richadys.github.io/Frontend-Wizard-Stage-_1/
 
 ## 💾 GitHub Repository
-https://github.com/richadys/frontendwizards-profile-card
+https://github.com/richadys/Frontend-Wizard-Stage-_1
+
 
 
