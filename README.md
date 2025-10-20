@@ -20,7 +20,8 @@ Each page is designed to be responsive, accessible, and easy to navigate.
 ---
 
 ## 🌐 Live Demo
-👉 [**View Live Demo**](https://richadys.github.io/frontend-wizard-stage1/)
+https://richadys.github.io/Frontend-Wizard-Stage-_1/
 
 ## 💾 GitHub Repository
 👉 [
+
